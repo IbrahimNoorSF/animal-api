@@ -1,49 +1,49 @@
 [
     {
-	"ID": 1,
-        "NAME": "AFRICAN PENGUIN",
-        "LOCATION": "South-West African Coast",
-        "POPULATION": "50,000",
-        "STATUS": "Endangered",
-        "DESCRIPTION": "The African penguin is a species of penguin living in southern African waters and is the only penguin species of Africa. They can swim with a speed of 20 km/h and can dive up to 130 m deep. The species has been in decline since the beginning of the industrial age because of overfishing, habitat destruction, coastal development and a number of other human influences."
+	"id": 1,
+        "name": "AFRICAN PENGUIN",
+        "location": "South-West African Coast",
+        "population": "50,000",
+        "status": "Endangered",
+        "description": "The African penguin is a species of penguin living in southern African waters and is the only penguin species of Africa. They can swim with a speed of 20 km/h and can dive up to 130 m deep. The species has been in decline since the beginning of the industrial age because of overfishing, habitat destruction, coastal development and a number of other human influences."
     }
 	{
-	"ID": 2,
-        "NAME": "POLAR BEAR",
-        "LOCATION": "Arctic Circle",
-        "POPULATION": "22,000 - 31,000",
-        "STATUS": "Vulnerable",
-        "DESCRIPTION": "The polar bear is a large bear classified as a marine mammal because it spends most of its live on the sea ice of the Arctic Ocean. Polar bears have a thick layer of body fat and a water-repellant coat that insulates them from the cold air and water. Their numbers are in decline because of ongoing loss of their sea ice habitat resulting from climate change, and they are listed as a Vulnerable species."
+	"id": 2,
+        "name": "POLAR BEAR",
+        "location": "Arctic Circle",
+        "population": "22,000 - 31,000",
+        "status": "Vulnerable",
+        "description": "The polar bear is a large bear classified as a marine mammal because it spends most of its live on the sea ice of the Arctic Ocean. Polar bears have a thick layer of body fat and a water-repellant coat that insulates them from the cold air and water. Their numbers are in decline because of ongoing loss of their sea ice habitat resulting from climate change, and they are listed as a Vulnerable species."
     }
 	{
-	"ID": 3,
-        "NAME": "SEA TURTLE",
-        "LOCATION": "Worldwide oceans",
-        "POPULATION": "unknown",
-        "STATUS": "Vulnerable",
-        "DESCRIPTION": "Sea turtles are large air-breathing reptiles and are one of the Earth's most ancient creatures. They play a vital role in the balance of marine habitats. Nearly all species of sea turtle are classified as Endangered. They suffer from poaching, over-exploitation and habitat destruction. It is hard to estimate their population as they are very difficult to track"
+	"id": 3,
+        "name": "SEA TURTLE",
+        "location": "Worldwide oceans",
+        "population": "unknown",
+        "status": "Vulnerable",
+        "description": "Sea turtles are large air-breathing reptiles and are one of the Earth's most ancient creatures. They play a vital role in the balance of marine habitats. Nearly all species of sea turtle are classified as Endangered. They suffer from poaching, over-exploitation and habitat destruction. It is hard to estimate their population as they are very difficult to track"
     }
 	{
-	"ID": 4,
-        "NAME": "SQUID",
-        "LOCATION": "Worldwide oceans",
-        "POPULATION": "unknown",
-        "STATUS": "Vulnerable",
-        "DESCRIPTION": "Squid are soft-bodied molluscs whose forms evolved to adopt an active predatory lifestyle. The head and foot of the squid are at one end of a long body, and this end is functionally anterior, leading the animal as it moves through the water. A set of eight arms and two distinctive tentacles surround the mouth; each appendage takes the form of a muscular hydrostat and is flexible and prehensile, usually bearing disc-like suckers."
+	"id": 4,
+        "name": "SQUID",
+        "location": "Worldwide oceans",
+        "population": "unknown",
+        "status": "Vulnerable",
+        "description": "Squid are soft-bodied molluscs whose forms evolved to adopt an active predatory lifestyle. The head and foot of the squid are at one end of a long body, and this end is functionally anterior, leading the animal as it moves through the water. A set of eight arms and two distinctive tentacles surround the mouth; each appendage takes the form of a muscular hydrostat and is flexible and prehensile, usually bearing disc-like suckers."
     }
 	{
-	"ID": 5,
-        "NAME": "EEL",
-        "LOCATION": "Atlantic coastline from Venezuela to Greenland and Iceland",
-        "POPULATION": "Alot",
-        "STATUS": "Vulnerable",
-        "DESCRIPTION": "Eels are ray-finned fish belonging to the order Anguilliformes, which consists of eight suborders, 19 families, 111 genera, and about 800 species. Eels undergo considerable development from the early larval stage to the eventual adult stage, and most are predators."}
+	"id": 5,
+        "name": "EEL",
+        "location": "Atlantic coastline from Venezuela to Greenland and Iceland",
+        "population": "Alot",
+        "status": "Vulnerable",
+        "description": "Eels are ray-finned fish belonging to the order Anguilliformes, which consists of eight suborders, 19 families, 111 genera, and about 800 species. Eels undergo considerable development from the early larval stage to the eventual adult stage, and most are predators."}
 {
-	"ID": 6,
-        "NAME": "SWANS",
-        "LOCATION": "Tropical Asia, Central America, northern South America and the entirety of Africa",
-        "POPULATION": "Alot",
-        "STATUS": "Vulnerable"
-        "DESCRIPTION": "Swans are birds of the family Anatidae within the genus Cygnus. The swans' closest relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae."
+	"id": 6,
+        "name": "SWANS",
+        "location": "Tropical Asia, Central America, northern South America and the entirety of Africa",
+        "population": "Alot",
+        "status": "Vulnerable"
+        "description": "Swans are birds of the family Anatidae within the genus Cygnus. The swans' closest relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae."
     }
 ]
