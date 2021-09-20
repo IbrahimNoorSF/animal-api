@@ -6,7 +6,7 @@
         "population": "50,000",
         "status": "Endangered",
         "description": "The African penguin is a species of penguin living in southern African waters and is the only penguin species of Africa. They can swim with a speed of 20 km/h and can dive up to 130 m deep. The species has been in decline since the beginning of the industrial age because of overfishing, habitat destruction, coastal development and a number of other human influences."
-    }
+    },
 	{
 	"id": 2,
         "name": "POLAR BEAR",
@@ -14,7 +14,7 @@
         "population": "22,000 - 31,000",
         "status": "Vulnerable",
         "description": "The polar bear is a large bear classified as a marine mammal because it spends most of its live on the sea ice of the Arctic Ocean. Polar bears have a thick layer of body fat and a water-repellant coat that insulates them from the cold air and water. Their numbers are in decline because of ongoing loss of their sea ice habitat resulting from climate change, and they are listed as a Vulnerable species."
-    }
+    },
 	{
 	"id": 3,
         "name": "SEA TURTLE",
@@ -22,7 +22,7 @@
         "population": "unknown",
         "status": "Vulnerable",
         "description": "Sea turtles are large air-breathing reptiles and are one of the Earth's most ancient creatures. They play a vital role in the balance of marine habitats. Nearly all species of sea turtle are classified as Endangered. They suffer from poaching, over-exploitation and habitat destruction. It is hard to estimate their population as they are very difficult to track"
-    }
+    },
 	{
 	"id": 4,
         "name": "SQUID",
@@ -30,7 +30,7 @@
         "population": "unknown",
         "status": "Vulnerable",
         "description": "Squid are soft-bodied molluscs whose forms evolved to adopt an active predatory lifestyle. The head and foot of the squid are at one end of a long body, and this end is functionally anterior, leading the animal as it moves through the water. A set of eight arms and two distinctive tentacles surround the mouth; each appendage takes the form of a muscular hydrostat and is flexible and prehensile, usually bearing disc-like suckers."
-    }
+    },
 	{
 	"id": 5,
         "name": "EEL",
