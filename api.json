@@ -4,6 +4,7 @@
         "name": "AFRICAN PENGUIN",
         "location": "South-West African Coast",
         "population": "50,000",
+	    "image":"https://res.cloudinary.com/dixptczq4/image/upload/v1568400786/bloowatch/african_penguin.jpg",
         "status": "Endangered",
         "description": "The African penguin is a species of penguin living in southern African waters and is the only penguin species of Africa. They can swim with a speed of 20 km/h and can dive up to 130 m deep. The species has been in decline since the beginning of the industrial age because of overfishing, habitat destruction, coastal development and a number of other human influences."
     },
@@ -12,6 +13,7 @@
         "name": "POLAR BEAR",
         "location": "Arctic Circle",
         "population": "22,000 - 31,000",
+	"image":"https://res.cloudinary.com/dixptczq4/image/upload/v1568400792/bloowatch/polar_bear.jpg",
         "status": "Vulnerable",
         "description": "The polar bear is a large bear classified as a marine mammal because it spends most of its live on the sea ice of the Arctic Ocean. Polar bears have a thick layer of body fat and a water-repellant coat that insulates them from the cold air and water. Their numbers are in decline because of ongoing loss of their sea ice habitat resulting from climate change, and they are listed as a Vulnerable species."
     },
@@ -20,6 +22,7 @@
         "name": "SEA TURTLE",
         "location": "Worldwide oceans",
         "population": "unknown",
+		"image":"https://res.cloudinary.com/dixptczq4/image/upload/v1568400796/bloowatch/seaturtle.jpg",
         "status": "Vulnerable",
         "description": "Sea turtles are large air-breathing reptiles and are one of the Earth's most ancient creatures. They play a vital role in the balance of marine habitats. Nearly all species of sea turtle are classified as Endangered. They suffer from poaching, over-exploitation and habitat destruction. It is hard to estimate their population as they are very difficult to track"
     },
@@ -28,6 +31,7 @@
         "name": "SQUID",
         "location": "Worldwide oceans",
         "population": "unknown",
+		"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg/800px-Sepioteuthis_sepioidea_%28Caribbean_Reef_Squid%29.jpg",
         "status": "Vulnerable",
         "description": "Squid are soft-bodied molluscs whose forms evolved to adopt an active predatory lifestyle. The head and foot of the squid are at one end of a long body, and this end is functionally anterior, leading the animal as it moves through the water. A set of eight arms and two distinctive tentacles surround the mouth; each appendage takes the form of a muscular hydrostat and is flexible and prehensile, usually bearing disc-like suckers."
     },
@@ -36,6 +40,7 @@
         "name": "EEL",
         "location": "Atlantic coastline from Venezuela to Greenland and Iceland",
         "population": "Alot",
+		"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anguilla_japonica_1856.jpg/1280px-Anguilla_japonica_1856.jpg",
         "status": "Vulnerable",
         "description": "Eels are ray-finned fish belonging to the order Anguilliformes, which consists of eight suborders, 19 families, 111 genera, and about 800 species. Eels undergo considerable development from the early larval stage to the eventual adult stage, and most are predators."
 	},
@@ -44,6 +49,7 @@
         "name": "SWANS",
         "location": "Tropical Asia, Central America, northern South America and the entirety of Africa",
         "population": "Alot",
+	    "image":"https://upload.wikimedia.org/wikipedia/commons/1/12/Cygnus_olor_2_%28Marek_Szczepanek%29.jpg",
         "status": "Vulnerable",
         "description": "Swans are birds of the family Anatidae within the genus Cygnus. The swans' closest relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae."
     }
